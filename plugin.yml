@@ -1,0 +1,6 @@
+name: AntiPlayerLagger
+version: 1.1
+author: TastischerGamer
+main: me.TastischerGamer.SignLagger.main.PlayerLaggerPlugin
+
+commands:
